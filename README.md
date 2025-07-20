@@ -51,6 +51,6 @@ This Power BI dashboard provides a comprehensive analysis of AJIO's sales perfor
 📂 Files in This Repo
 
 * — "https://github.com/Deepakchavan1/Data-Analysis-/blob/main/ajio%20sales.pbit" Main Power BI file
-* _ Processed data source
+* _ Data source used for this report is available in index
 * — Exported visuals and dashboard screenshots
 
